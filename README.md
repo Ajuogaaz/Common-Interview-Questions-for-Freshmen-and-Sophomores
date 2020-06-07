@@ -25,4 +25,4 @@ Enjoy Learning and Goodluck!
 ## List of included problems
 1. [Reversing a String](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/CheckingIfInSubstring.ipynb)
 2. [Checking if a string a substring of another string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/ReverseString(MicrosoftNewTechnologies%26GoogleSTEP).ipynb)
-3. Checking if there is a Duplicate letter in a string
+3. [Checking if there is a Duplicate letter in a string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/checkDuplicates.ipynb)
