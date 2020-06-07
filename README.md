@@ -22,4 +22,7 @@ Enjoy Learning and Goodluck!
   1. Follow this link [Guide to contribute on GitHub](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
   2. Kindly follow the format of the previously uploaded Jupyter Notebooks files.
   
-
+## List of included problems
+1. Reversing a String
+2. Checking if a string a substring of another string
+3. Checking there is a Duplicate letter in a string
