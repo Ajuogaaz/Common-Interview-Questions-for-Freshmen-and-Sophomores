@@ -23,6 +23,6 @@ Enjoy Learning and Goodluck!
   2. Kindly follow the format of the previously uploaded Jupyter Notebooks files.
   
 ## List of included problems
-1. Reversing a String
+1. [Reversing a String](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/CheckingIfInSubstring.ipynb)
 2. Checking if a string a substring of another string
 3. Checking there is a Duplicate letter in a string
