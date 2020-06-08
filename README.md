@@ -28,3 +28,4 @@ Enjoy Learning and Goodluck!
 3. [Checking if there is a Duplicate letter in a string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/checkDuplicates.ipynb)
 4. [Finding The Next Smallest Prime Number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/FindingTheNextPrimeNumber.ipynb)
 5. [Finding the sum of multiples of 3 and 5 below number ](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Return%20Sum%20of%20all%20Multiples%20of%203%20and%205%20before%20the%20number%20n.ipynb)
+6. [Finding Sum Of Even Number Fibonacci Numbers Before N](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/SumOfEvenNumberFibonacciNumbersBeforeN.ipynb)
