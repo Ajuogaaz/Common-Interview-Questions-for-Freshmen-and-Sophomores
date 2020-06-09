@@ -30,3 +30,8 @@ Enjoy Learning and Goodluck!
 5. [Finding the sum of multiples of 3 and 5 below number ](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Return%20Sum%20of%20all%20Multiples%20of%203%20and%205%20before%20the%20number%20n.ipynb)
 6. [Finding Sum Of Even Number Fibonacci Numbers Before N](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/SumOfEvenNumberFibonacciNumbersBeforeN.ipynb)
 7. [Determine Whether Input Is A Happy Number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/DetermineWhetherInputIsAHappyNumber.ipynb)
+8. [Checking if two strings are anagrams](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/checkAnagram.ipynb)</br>
+9. [Counting the prime numbers less than a given number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/countPrimes.ipynb)</br>
+10. [Find the index of the first value in a fibonacci series with the given number of digits. ](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/indexOfFibonacci.ipynb)</br>
+11. [Finding the nth value in a fibonacci series given its index](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/nthFibonacciIndex.ipynb)</br>
+12. [Converts a roman numeral to its equivalent integer](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/romanInteger.ipynb)
