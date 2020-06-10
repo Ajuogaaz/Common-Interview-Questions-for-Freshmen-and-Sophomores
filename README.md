@@ -38,4 +38,4 @@ Enjoy Learning and Goodluck!
 13. [Finds the indices of two numbers in an array that adds up to a target number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/twoSum.ipynb)
 14. [Find A Pair With the Given Sum](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/%20FindAPairWithGivenSum.ipynb)
 15. [Kth Frequent Number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/%20KthFrequentNumber.ipynb)
-16. [Checking If In Substring](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/CheckingIfInSubstring.ipynb)
+16. [Isomorphic Strings](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/IsomorphicStrings.ipynb)
