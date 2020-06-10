@@ -36,3 +36,4 @@ Enjoy Learning and Goodluck!
 11. [Finding the nth value in a fibonacci series given its index](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/nthFibonacciIndex.ipynb)</br>
 12. [Converts a roman numeral to its equivalent integer](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/romanInteger.ipynb)
 13. [Finds the indices of two numbers in an array that adds up to a target number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/twoSum.ipynb)
+14. [Find A Pair With the Given Sum](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/%20FindAPairWithGivenSum.ipynb)
