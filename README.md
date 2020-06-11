@@ -42,3 +42,4 @@ Enjoy Learning and Goodluck!
 17. [Find the first missing positive integer in an array](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/firstMissingPosInt.ipynb)
 18. [Rotate an array in the right direction for a given number of steps](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/rotateArray.ipynb)
 19. [Add one to an array of digits](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/plusOne.ipynb)
+20. [Merges together a 2D-array specifying the interval of integers](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/mergeOverlappingIntervals.ipynb)
