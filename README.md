@@ -45,3 +45,4 @@ Enjoy Learning and Goodluck!
 20. [Merges together a 2D-array specifying the interval of integers](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/mergeOverlappingIntervals.ipynb)
 21. [Finding the previous fibonacci Number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/PreviousFibonacciNumber.ipynb)
 22. [Longest Consercutive Subsequence](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/LongestConsercutiveSubsequence.ipynb)
+23. [Check For Duplicates Within A Range](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/CheckforDuplicateswithinARange.ipynb)
