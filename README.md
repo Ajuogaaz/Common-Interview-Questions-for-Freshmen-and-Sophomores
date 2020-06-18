@@ -46,3 +46,4 @@ Enjoy Learning and Goodluck!
 21. [Finding the previous fibonacci Number](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/PreviousFibonacciNumber.ipynb)
 22. [Longest Consercutive Subsequence](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/LongestConsercutiveSubsequence.ipynb)
 23. [Check For Duplicates Within A Range](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/CheckforDuplicateswithinARange.ipynb)
+24. [String to Integer <--Classic Atoi-->](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/atoi.ipynb)
