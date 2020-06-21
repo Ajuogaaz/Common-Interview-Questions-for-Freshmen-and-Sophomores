@@ -48,3 +48,4 @@ Enjoy Learning and Goodluck!
 23. [Check For Duplicates Within A Range](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/CheckforDuplicateswithinARange.ipynb)
 24. [String to Integer <--Classic Atoi-->](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/atoi.ipynb)
 25. [Checks is a given sentence is valid](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isValidSentence.ipynb)
+26. [Finds the index of the first unique character in a string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/firstUnique.ipynb)
