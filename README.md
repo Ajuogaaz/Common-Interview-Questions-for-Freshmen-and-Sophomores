@@ -50,4 +50,4 @@ Enjoy Learning and Goodluck!
 25. [Checks is a given sentence is valid](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isValidSentence.ipynb)
 26. [Finds the index of the first unique character in a string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/firstUnique.ipynb)
 27. [Replaces a character in a string with the space character(Brick-break-problem)](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/brickBreak.ipynb)
-
+28. [Checks is a given array of strings is an alliteration](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isAlliteration.ipynb)
