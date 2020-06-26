@@ -5,7 +5,7 @@ Check out the website  with the run time of python in built functions [here](htt
 
 If you have an alternative solution to any of the above questions, kindly follow the ```Standards of contribution``` to add your work.
 
-If there is a mistake in the analysis of the Space or Time Complexity, kindly contact [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) or [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>)
+If there is a mistake in the analysis of the Space or Time Complexity, kindly contact [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) , [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>) or [Philip Boakye](<mailto:philip.boakye@minerva.kgi.edu>)
 
 Enjoy Learning and Goodluck!
 
