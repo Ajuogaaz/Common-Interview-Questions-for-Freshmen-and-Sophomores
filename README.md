@@ -52,3 +52,4 @@ Enjoy Learning and Goodluck!
 27. [Replaces a character in a string with the space character(Brick-break-problem)](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/brickBreak.ipynb)
 28. [Checks is a given array of strings is an alliteration](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isAlliteration.ipynb)
 29. [Palindrome Check](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isPalindrome.ipynb)
+30. [Number and Longest Palindromic Subtstring(s)](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Number%20and%20Longest%20Palindromic%20Substring(s).py)
