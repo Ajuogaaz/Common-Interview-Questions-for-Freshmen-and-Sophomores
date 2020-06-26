@@ -52,3 +52,4 @@ Enjoy Learning and Goodluck!
 28. [Checks is a given array of strings is an alliteration](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isAlliteration.ipynb)
 29. [Palindrome Check](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isPalindrome.ipynb)
 30. [Number and Longest Palindromic Subtstring(s)](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Number%20and%20Longest%20Palindromic%20Substring(s).py)
+31. [Finds the kth highest occuring numbers in an array](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/kthFrequentNumber.ipynb)
