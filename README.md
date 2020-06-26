@@ -12,8 +12,7 @@ Enjoy Learning and Goodluck!
 
 ## Standards for contribution
 ### OPTION 1
-  1. Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) or [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>)
-  your GitHub username to be added as a contributor.
+  1. Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) , [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>) or [Philip Boakye](<mailto:philip.boakye@minerva.kgi.edu>) your GitHub username to be added as a contributor.
   2. After your request have been approved, upload files using the ```Upload Files``` button on the GitHub repository homepage.
   3. Add your username to the GitHub commit message when uploading to attribute credit to the contributor.
   4. Follow the style of the previously uploaded Jupyter Notebooks files. 
