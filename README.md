@@ -53,3 +53,4 @@ Enjoy Learning and Goodluck!
 29. [Palindrome Check](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isPalindrome.ipynb)
 30. [Number and Longest Palindromic Subtstring(s)](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Number%20and%20Longest%20Palindromic%20Substring(s).py)
 31. [Finds the kth highest occuring numbers in an array](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/kthFrequentNumber.ipynb)
+32. [Checks to see if the letters in one string matches the words in the another string<--Word Pattern-->](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/wordPattern.ipynb)
