@@ -5,14 +5,14 @@ Check out the website  with the run time of python in built functions [here](htt
 
 If you have an alternative solution to any of the above questions, kindly follow the ```Standards of contribution``` to add your work.
 
-If there is a mistake in the analysis of the Space or Time Complexity, kindly contact [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) , [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>) or [Philip Boakye](<mailto:philip.boakye@minerva.kgi.edu>)
+If there is a mistake in the analysis of the Space or Time Complexity, kindly contact [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) , [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>) , [Philip Boakye](<mailto:philip.boakye@minerva.kgi.edu>) or [Paul Opiyo](<mailto:paul.o.otieno@vanderbilt.edu>)
 
 Enjoy Learning and Goodluck!
 
 
 ## Standards for contribution
 ### OPTION 1
-  1. Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) , [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>) or [Philip Boakye](<mailto:philip.boakye@minerva.kgi.edu>) your GitHub username to be added as a contributor.
+  1. Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) , [Linus Okoth](<mailto:LinusOkoth2023@u.northwestern.edu>) , [Philip Boakye](<mailto:philip.boakye@minerva.kgi.edu>) or [Paul Opiyo](<mailto:paul.o.otieno@vanderbilt.edu>) your GitHub username to be added as a contributor.
   2. After your request have been approved, upload files using the ```Upload Files``` button on the GitHub repository homepage.
   3. Add your username to the GitHub commit message when uploading to attribute credit to the contributor.
   4. Follow the style of the previously uploaded Jupyter Notebooks files. 
