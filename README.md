@@ -57,3 +57,4 @@ Enjoy Learning and Goodluck!
 33. [Implements the classic strStr() needle in haystack](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/strStr().ipynb)
 34. [Sort a stock alphabetically](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/alphabeticalStocks.ipynb)
 35. [Convert an integer to its Roman Numerals](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/IntToRoman.ipynb)
+36. [Checks if the number of occurences of list items are the same or not](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/uniqueOccurence.ipynb)
