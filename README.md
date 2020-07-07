@@ -59,3 +59,4 @@ Enjoy Learning and Goodluck!
 35. [Convert an integer to its Roman Numerals](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/IntToRoman.ipynb)
 36. [Checks if the number of occurences of list items are the same or not](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/uniqueOccurence.ipynb)
 37. [Find the n-th ugly number in a sequence](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/UglyNumbers.ipynb)
+38. [Finds uncommon words in two sentences](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/uncommonWordsInSentence.ipynb)
