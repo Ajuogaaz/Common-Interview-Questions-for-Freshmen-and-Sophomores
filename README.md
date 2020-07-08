@@ -61,3 +61,4 @@ Enjoy Learning and Goodluck!
 37. [Find the n-th ugly number in a sequence](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/UglyNumbers.ipynb)
 38. [Finds uncommon words in two sentences](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/uncommonWordsInSentence.ipynb)
 39. [Moves all the zeros in a list to the end in place](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/moveZeros.ipynb)
+40. [Computes the pascal triangle based on the number of rows](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/pascalTriangle.py)
