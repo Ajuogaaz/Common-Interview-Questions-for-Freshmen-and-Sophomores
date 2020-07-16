@@ -63,3 +63,4 @@ Enjoy Learning and Goodluck!
 39. [Moves all the zeros in a list to the end in place](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/moveZeros.ipynb)
 40. [Computes the pascal triangle based on the number of rows](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/pascalTriangle.py)
 41. [Find the longest common prefix in an array of strings](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/longestCommonPrefix.ipynb)
+42. [Determine whether an integer is a palindrome](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isPalindromeInt.ipynb)
