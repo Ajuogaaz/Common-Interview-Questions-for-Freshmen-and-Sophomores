@@ -65,3 +65,4 @@ Enjoy Learning and Goodluck!
 41. [Find the longest common prefix in an array of strings](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/longestCommonPrefix.ipynb)
 42. [Determine whether an integer is a palindrome](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isPalindromeInt.ipynb)
 43. [Checks if a given string of parentheses is balanced](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isValidParentheses.ipynb)
+44. [Uses the reverse Polish notation to make computations](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/postFix.ipynb)
