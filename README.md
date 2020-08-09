@@ -67,3 +67,4 @@ Enjoy Learning and Goodluck!
 43. [Checks if a given string of parentheses is balanced](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/isValidParentheses.ipynb)
 44. [Uses the reverse Polish notation to make computations](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/postFix.ipynb)
 45. [Uses recursion to check if a given string is a palindrome](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/recursivePalindrome.ipynb)
+46. [Uses recursion to flatten a 2D array](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/flattenArray.ipynb)
