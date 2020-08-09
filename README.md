@@ -70,3 +70,4 @@ Enjoy Learning and Goodluck!
 46. [Uses recursion to flatten a 2D array](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/flattenArray.ipynb)
 47. [Uses recursion to reverse a given string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/recursive%20Reverse%20String.ipynb)
 48. [Finds the next smallest number after a number whose digits sum is the same as the input](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Smallest%20Sum.ipynb)
+49. [Calculates the max height of a given binary tree](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Maximum%20Height%20of%20a%20Binary%20Tree.ipynb)
