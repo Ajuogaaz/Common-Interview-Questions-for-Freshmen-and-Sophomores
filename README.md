@@ -68,3 +68,4 @@ Enjoy Learning and Goodluck!
 44. [Uses the reverse Polish notation to make computations](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/postFix.ipynb)
 45. [Uses recursion to check if a given string is a palindrome](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/recursivePalindrome.ipynb)
 46. [Uses recursion to flatten a 2D array](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/flattenArray.ipynb)
+47. [Uses recursion to reverse a given string](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/recursive%20Reverse%20String.ipynb)
