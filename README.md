@@ -72,3 +72,4 @@ Enjoy Learning and Goodluck!
 48. [Finds the next smallest number after a number whose digits sum is the same as the input](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Smallest%20Sum.ipynb)
 49. [Calculates the max height of a given binary tree](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Maximum%20Height%20of%20a%20Binary%20Tree.ipynb)
 50. [Recursive Implementation of the binary search](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Binary%20Search.ipynb)
+51. [Implementation of the selection sort algorithm](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/selectionSort.ipynb)
