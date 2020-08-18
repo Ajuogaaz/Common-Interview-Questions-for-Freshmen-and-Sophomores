@@ -74,3 +74,4 @@ Enjoy Learning and Goodluck!
 50. [Recursive Implementation of the binary search](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Binary%20Search.ipynb)
 51. [Implementation of the selection sort algorithm](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/selectionSort.ipynb)
 52. [Implementation of the shell sort algorithm](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Shell%20Sort.ipynb)
+53. [Implementation of the insertion sort algorithm](https://github.com/Ajuogaaz/Common-Interview-Questions-for-Freshmen-and-Sophomores/blob/master/Insertion%20Sort.ipynb)
